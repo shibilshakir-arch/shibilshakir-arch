@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Shibil Shakir</h1>
-<h3 align="center">A grumpy developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Chiyo_Mihama_With_The_Renegade_Coder_Python_Lab.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibilshakir-arch&label=Profile%20views&color=0e75b6&style=flat" alt="shibilshakir-arch" /> </p>
