@@ -17,5 +17,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibilshakir-arch&" alt="shibilshakir-arch" /></p>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Chiyo_Mihama_With_The_Renegade_Coder_Python_Lab.png">
+<img align="center" alt="Coding" width="400" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Python/Chiyo_Mihama_With_The_Renegade_Coder_Python_Lab.png">
 
